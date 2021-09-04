@@ -1,3 +1,3 @@
-module.exports ={
-    publicPath: '/rayosur.github.io/'
-}
+module.exports = {
+    publicPath: '/rayosur-rayosur.github.io/',
+  }
