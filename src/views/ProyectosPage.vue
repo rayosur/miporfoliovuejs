@@ -26,7 +26,7 @@
 					</p>
 				</div>
 				<div class="column">
-					<a href="https://melvinhernandez.000webhostapp.com/" target="_blank" class="hover title is-4">Blog | Personal
+					<a href="https://www.vvtutorial.es/" target="_blank" class="hover title is-4">Blog | Personal
 					</a>
 					<article>
 						<p style="margin-top: 10px;" class="subtitle is-4">
@@ -77,7 +77,7 @@
 					</p>
 				</div>
 				<div class="column">
-					<a href="https://www.medicinasveterinarias.com/" target="_blank" class="hover title is-4">Lista | Estudiantes
+					<a href="" target="_blank" class="hover title is-4">Lista | Estudiantes
 					</a>
 					<article>
 						<p style="margin-top: 10px;" class="subtitle is-4">
